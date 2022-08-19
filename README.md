@@ -2,7 +2,8 @@
 
 I've been given access to the complete data from a recent animal study. In this study, 249 mice who were identified with SCC tumors received treatment with a range of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
 
-I was tasked to generatie all of the tables and figures needed for the technical report of the clinical study. Also for a top-level summary of the study results.
+I was tasked to generate all of the tables and figures needed for the technical report of the clinical study. Also for a top-level summary of the study results.
+
 
 # Generate Summary Statistics
 Create two summary statistics DataFrames:
